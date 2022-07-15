@@ -1,6 +1,6 @@
-About RabbitMQ Alert
+About RabbitMQ Alert Python3
 ====================
-
+This is python3 verson of gfronza/rabbitmq-alert
 Send notifications when predefined conditions are met.
 
 Which conditions?
